@@ -1,0 +1,3 @@
+rootProject.name = 'identity-snowflake'
+
+include('identity-snowflake')
